@@ -30,7 +30,7 @@ Programmer.prototype.greet = function(){
 
 
 console.log(a.greet());
-
+console.log(b.greet());
 
 
 
