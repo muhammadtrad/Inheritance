@@ -104,9 +104,9 @@ instance.name //sam
 
 const eric = new Fighter0("eric", 23, "jiu jitsu");
 
-console.log(eric.fight());
+// console.log(eric.fight());
 
-console.log(tod.greet());
+// console.log(tod.greet());
 
 /////////////////////////////////////////////////
 //Prototypal Inheritance vs Classical Inheritance
